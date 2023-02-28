@@ -1,0 +1,18 @@
+Date:
+ID :
+Reported by:
+Sofware Name:
+Software version     and build:version
+Operation System and Language :
+Hardware configuration :
+Title:
+Problem Description:
+Pre-condition:
+Step to reproduce:
+Expected result:
+Actual result:
+Bug reproducibility:
+Attachments:
+Assigned to
+Priority:
+Severity:
